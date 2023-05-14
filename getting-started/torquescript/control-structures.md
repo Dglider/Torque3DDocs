@@ -126,7 +126,7 @@ Appending the $ sign to switch will immediately cause the parameter passed in to
 {% code lineNumbers="true" %}
 ```clike
 // Print out specialties
-switch($userName)
+switch$ ($userName)
 {
    case "Heather":
       echo("Sniper");
